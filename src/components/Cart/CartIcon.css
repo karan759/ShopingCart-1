@@ -1,0 +1,19 @@
+.button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    position: relative;
+}
+.notify {
+    background-color:#E64848;
+    border-radius: 10px;
+   height: 20px;
+   width: 20px;
+    color: #fff;
+    position: absolute;
+    align-items: center;
+    font-size: 15px;
+    line-height: 20px;
+    top: 2%;
+    left: 58%;
+}

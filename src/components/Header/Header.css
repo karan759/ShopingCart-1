@@ -1,0 +1,14 @@
+.header{
+    width: 94%;
+    display: flex;
+    justify-content: space-between;
+}
+.header h1{
+    margin: 10px 40px;
+}
+.line{
+    background-color: rgb(218, 213, 213);
+    width: 90%;
+    height: 1px;
+    margin: 5px 40px;
+}
